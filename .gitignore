@@ -1,38 +1,41 @@
 # Built application files
-/*/build/
+BorderlessButtons/Application/build/
 
 # Crashlytics configuations
-com_crashlytics_export_strings.xml
+BorderlessButtons/Application/com_crashlytics_export_strings.xml
 
 # Local configuration file (sdk path, etc)
-local.properties
+BorderlessButtons/Application/local.properties
 
 # Gradle generated files
-.gradle/
+BorderlessButtons/Application/gradle/
 
 # Signing files
-.signing/
+BorderlessButtons/Application/signing/
 
 # User-specific configurations
-.idea/libraries/
-.idea/workspace.xml
-.idea/tasks.xml
-.idea/.name
-.idea/compiler.xml
-.idea/copyright/profiles_settings.xml
-.idea/encodings.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/scopes/scope_settings.xml
-.idea/vcs.xml
-*.iml
+BorderlessButtons/Application/idea/libraries/
+BorderlessButtons/Application/idea/workspace.xml
+BorderlessButtons/Application/idea/tasks.xml
+BorderlessButtons/Application/idea/.name
+BorderlessButtons/Application/idea/compiler.xml
+BorderlessButtons/Application/idea/copyright/profiles_settings.xml
+BorderlessButtons/Application/idea/encodings.xml
+BorderlessButtons/Application/idea/misc.xml
+BorderlessButtons/Application/idea/modules.xml
+BorderlessButtons/Application/idea/scopes/scope_settings.xml
+BorderlessButtons/Application/idea/vcs.xml
+BorderlessButtons/Application/.iml
 
 # OS-specific files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-.idea/
+BorderlessButtons/Application/.DS_Store
+BorderlessButtons/Application/.DS_Store?
+BorderlessButtons/Application/._*/
+BorderlessButtons/Application/.Spotlight-V100/
+BorderlessButtons/Application/.Trashes/
+BorderlessButtons/Application/ehthumbs.db/
+BorderlessButtons/Application/Thumbs.db/
+BorderlessButtons/idea/
+BorderlessButtons/Application/build/
+BorderlessButtons/.idea/
+My First Android App/.idea/
